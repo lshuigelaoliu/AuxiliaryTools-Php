@@ -1,0 +1,13 @@
+{
+    "name": "auxtoolphp/helper",
+    "description": "Elind Printer SDK",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "laoliu",
+            "email": "2484375158@qq.com"
+        }
+    ],
+    "require": {}
+}
